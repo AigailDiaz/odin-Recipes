@@ -1,0 +1,13 @@
+/* estilos externos del archivo Html*/
+
+div {
+    /* Etiqueta de apertura selector de elemento*/
+    color: beige;
+    background-color: black;
+
+}
+
+p {
+    /* selector de elemento*/
+    color: coral;
+}
